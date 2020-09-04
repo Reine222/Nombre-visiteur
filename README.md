@@ -6,3 +6,6 @@ nombre de visiteur sur une page
   
 # Context processor
   http://www.formation-django.fr/framework-django/zoom-sur/context-processor.html
+
+# Creation sitemap
+  https://moonbooks.org/Articles/Comment-creer-un-sitemap-avec-le-web-framework-Django-/
