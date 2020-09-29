@@ -9,3 +9,5 @@ nombre de visiteur sur une page
 
 # Creation sitemap
   https://moonbooks.org/Articles/Comment-creer-un-sitemap-avec-le-web-framework-Django-/
+# localisation visiteur
+  https://moonbooks.org/Articles/Obtenir-ladresse-IP-visiteur-sous-django/
